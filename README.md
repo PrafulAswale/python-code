@@ -30,3 +30,18 @@
         num = 2 + 3j 
         print(type(num)) #<class 'complex>
         ```
+
+## String in Python
+ * In Python, a string is a sequence of characters enclosed within single, double, or triple quotes. Strings are immutable, meaning they cannot be modified after creation. 
+
+ * They support various operations like concatenation, slicing, and formatting. Strings can contain alphanumeric characters, symbols, and whitespace.
+
+ * Python provides extensive string manipulation methods, including searching, replacing, and splitting. String literals can include escape sequences to represent special characters.
+
+ * Python offers powerful string formatting options using placeholders or f-strings. Strings play a fundamental role in Python programming, serving as data containers for text-based information in tasks ranging from simple data handling to complex text processing algorithms.
+
+    ```python
+    name = 'python'
+    print(type(name)) #<class 'str'>
+    ```
+
