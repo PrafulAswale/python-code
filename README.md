@@ -45,3 +45,17 @@
     print(type(name)) #<class 'str'>
     ```
 
+## List in Python
+
+* In Python, a list is a mutable, ordered collection of items enclosed in square brackets []. Lists can contain elements of different types, such as integers, strings, or even other lists. 
+
+* They support indexing and slicing for accessing elements, and offer versatile methods for manipulation, including appending, removing, and sorting items.
+
+* Lists are commonly used to store and manage data that needs to be dynamically modified during program execution. Example: my_list = [1, "apple", 3.14, [4, 5]] combines integers, strings, a float, and another list. Access individual elements with my_list[0], my_list[1], etc.
+
+    ```python
+    my_list = [1, "apple", 3.14, [4, 5]] 
+    my_list[0] # 1
+    my_list[1] # apple
+    type(my_list) # <class 'list'>
+    ```
