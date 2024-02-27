@@ -59,3 +59,17 @@
     my_list[1] # apple
     type(my_list) # <class 'list'>
     ```
+
+## Dictionary in Python
+
+* Dictionaries in Python is a data structure, used to store values in key:value format. This makes it different from lists, tuples, and arrays as in a dictionary each key has an associated value.
+
+     ```python
+    Dict = {1: 'python', 2: 'java', 3: 'c++'}
+    print("\nDictionary with the use of Integer Keys: ")
+    print(Dict)
+    
+    Dict = {'Name': 'Python', 1: [1, 2, 3, 4]}
+    print("\nDictionary with the use of Mixed Keys: ")
+    print(Dict)
+    ```
