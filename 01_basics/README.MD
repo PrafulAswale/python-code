@@ -19,3 +19,6 @@
 - Funtions, modules, classes
 
 - Advance: Decorators, Generators, Iterators, MetaProgramming
+
+# Numbers
+ - 
